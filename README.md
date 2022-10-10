@@ -1,4 +1,4 @@
-## Oiii eu sou o Paulo Vitor, Web DEveloper!
+## Oiii eu sou o Paulo Vitor, Web Developer!
 <div align="center">
   <a href="https://github.com/paulovitor3101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovitor3101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
